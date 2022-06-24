@@ -4,6 +4,16 @@ Primer Proyecto Grupo - Aula 16 - ISPC -.
 ### TRABAJAR EN PROYECTOS
 >_La aplicación de los métodos ágiles no ha dejado de crecer y extenderse desde 2001, año en que se publicó el Manifiesto Ágil, al maximizar los resultados de un proyecto cumpliendo las expectativas de los clientes, sin desviarse del presupuesto. Al aplicar Scrum a la gestión de proyectos se pueden obtener resultados de alta calidad trabajando en iteraciones cortas llamadas Sprints. Scrum basa su funcionamiento en la flexibilidad, la comunicación, la colaboración, la simplicidad y en dar relevancia a las personas implicadas en el día a día del proyecto con el objetivo de construir productos de calidad y siempre orientados a cubrir las necesidades reales del cliente.Este libro permite y facilita el conocimiento de los métodos ágiles y el aprendizaje de Scrum. Surge como respuesta a la necesidad de contar con un texto introductorio y divulgativo sobre métodos ágiles en castellano ya que, aunque existe un amplia bibliografía en inglés, en español es realmente escasa._
 
+La metodología Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está  basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes. Dicho en otras palabras: Scrum sirve para mejorar el trabajo colaborativo entre equipos.
+
+Se trata de una metodología que ayuda a los equipos a aprender y organizarse en base a las experiencias a la vez que aborda problemas e invita a reflexionar sobre los éxitos y fracasos.  Todo ello bajo una serie de herramientas y recursos que permite a los equipos organizarse con mayor agilidad.
+Los beneficios de Scrum son amplios y repercuten en el equipo, en los Stakeholders y en la organización en su conjunto.
+
+Se fomenta el trabajo en equipo, focalizando todos los esfuerzos en alcanzar un objetivo común. Se trata de un modelo basado en la auto-disciplina y la auto-gestión, lo que repercute positivamente en la responsabilidad. Respecto al aspecto comunicativo, esta metodología fomenta la comunicación entre los distintos miembros del equipo.
+
+Los Stakeholders tienen un mayor control y transparencia sobre el proyecto, permitiendo una mejor organización. El cliente puede hacer seguimiento más cercano de lo que pasa, sin tener que esperar a un resultado final que no le convenza. Con las metas intermedias se minimizan riesgos.
+
+En definitiva, la adopción de estas buenas prácticas permite reducir el tiempo de desarrollo de productos, más capacidad de adptación y flexibilidad frente a un entorno y unos requisitos cambiantes aumentando el valor que se aporta a los clientes.
 
 ## Conceptos SCRUM:
 
