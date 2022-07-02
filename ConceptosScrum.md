@@ -136,11 +136,11 @@ Como norma general, "cuantos menos mejor". Esta norma facilita la simplicidad a 
 En cuanto a la descripción del puesto, en el caso de un oferta de empleo, las habilidades que se suelen pedir son muy diversas, ya que a los "desarrolladores" se les contrata en función de sus habilidades. Siempre será una ventaja la experiencia de trabajo en equipos scrum.
 
 
-(Pegar aqui INTRODUCCION A HERRAMIENTAS PARA GESTION DE PROYECTOS EN GENERAL)
-(Pegar aqui LA GESTION DE PORYECTOS EN EL DESARROLLO WEB)
-(Pegar aqui INTRODUCCION A GITHUB)
-(Pegar aqui COMO CREAR UNA CUENTA Y UN REPOSITORIO EN GITHUB)
-(Pegar aqui INTRODUCCION A GIT)
-(Pegar aqui SENTENCIAS GIT PARA CLONAR REPOSITORIO)
-(Pegar aqui SENTENCIAS GIT PARA CREAR UNA RAMA PERSONAL)
-(Pegar aqui DIFERENCIA ENTRE GIT Y GITHUB)
+- (Pegar aqui INTRODUCCION A HERRAMIENTAS PARA GESTION DE PROYECTOS EN GENERAL)
+- (Pegar aqui LA GESTION DE PORYECTOS EN EL DESARROLLO WEB)
+- (Pegar aqui INTRODUCCION A GITHUB)
+- (Pegar aqui COMO CREAR UNA CUENTA Y UN REPOSITORIO EN GITHUB)
+- (Pegar aqui INTRODUCCION A GIT)
+- (Pegar aqui SENTENCIAS GIT PARA CLONAR REPOSITORIO)
+- (Pegar aqui SENTENCIAS GIT PARA CREAR UNA RAMA PERSONAL)
+- (Pegar aqui DIFERENCIA ENTRE GIT Y GITHUB)
