@@ -156,19 +156,13 @@ Herramientas que se utilizan para gestión de proyectos
 Una herramienta online básica para la gestión de proyectos de forma colaborativa que utiliza una metodología Kanban de una forma súper visual.
 Es posible usar Trello tanto para la gestión de grandes proyectos como para pequeñas tareas personales. Es bastante fácil de usar, con una interfaz muy intuitiva y con funcionalidades drag and drop, que es básicamente esto que ves en el GIF de abajo.
 2. Asana
-Las aplicaciones online de creación de listas de tareas suelen ser muy simples para cumplir con los objetivos de un gran proyecto, pero esto no ocurre con Asana.
-
-Vas a encontrarte con un panel vacío, pero la clave está en que vas a poder crear diferentes equipos (como el equipo de ventas, equipo de contabilidad, etc.) y diferentes proyectos asignados a estos equipos. Y además, vas a poder comprobar en todo momento cómo se encuentra cada proyecto.
+Las aplicaciones online de creación de listas de tareas suelen ser muy simples para cumplir con los objetivos de un gran proyecto, pero esto no ocurre con Asana. Vas a encontrarte con un panel vacío, pero la clave está en que vas a poder crear diferentes equipos (como el equipo de ventas, equipo de contabilidad, etc.) y diferentes proyectos asignados a estos equipos. Y además, vas a poder comprobar en todo momento cómo se encuentra cada proyecto.
 3. Redbooth
 Conocido anteriormente como Teambox, Redbooth es un gestor de tareas y proyectos colaborativos muy intuitivo y fácil de usar.
 4. Dapulse
-Esta herramienta online para gestión de proyectos es la resultante de mezclar uso fácil e intuitivo e interfaz amigable y atractiva.
-
-Podríamos decir que su punto fuerte es la usabilidad. Puedes crear procesos y tareas, asignarlas a diferentes equipos de trabajo y en un panel de control muy simple pero llamativo, podrás ver cómo va todo.
+Esta herramienta online para gestión de proyectos es la resultante de mezclar uso fácil e intuitivo e interfaz amigable y atractiva. Podríamos decir que su punto fuerte es la usabilidad. Puedes crear procesos y tareas, asignarlas a diferentes equipos de trabajo y en un panel de control muy simple pero llamativo, podrás ver cómo va todo.
 5. Noysi
-Una herramienta que nos ha sorprendido debido a que no la hemos conocido hasta hace realmente poco.
-
-Es una herramienta cuyo principal punto fuerte radica en la comunicación interna. Muchos la catalogan ya como el ‘WhatsApp de las empresas’, ya que sus fundadores tienen la idea de cambiar la forma en la que las empresas se comunican actualmente.
+Una herramienta que nos ha sorprendido debido a que no la hemos conocido hasta hace realmente poco. Es una herramienta cuyo principal punto fuerte radica en la comunicación interna. Muchos la catalogan ya como el ‘WhatsApp de las empresas’, ya que sus fundadores tienen la idea de cambiar la forma en la que las empresas se comunican actualmente.
 
 - (Pegar aqui LA GESTION DE PORYECTOS EN EL DESARROLLO WEB)
 - (Pegar aqui INTRODUCCION A GITHUB)
