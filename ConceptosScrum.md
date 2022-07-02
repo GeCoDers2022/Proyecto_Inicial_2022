@@ -136,7 +136,40 @@ Como norma general, "cuantos menos mejor". Esta norma facilita la simplicidad a 
 En cuanto a la descripción del puesto, en el caso de un oferta de empleo, las habilidades que se suelen pedir son muy diversas, ya que a los "desarrolladores" se les contrata en función de sus habilidades. Siempre será una ventaja la experiencia de trabajo en equipos scrum.
 
 
-- (Pegar aqui INTRODUCCION A HERRAMIENTAS PARA GESTION DE PROYECTOS EN GENERAL)
+## INTRODUCCION A HERRAMIENTAS PARA GESTION DE PROYECTOS EN GENERAL
+La eficiencia y productividad dentro de una empresa con varios empleados es complicada de conseguir ya que hay que controlar exhaustivamente qué se está haciendo y cómo.
+
+En este artículo vamos a hablarte sobre herramientas de gestión de proyectos. Aquí vas a encontrar aplicaciones que van a servirte para hacer un seguimiento del trabajo que se está haciendo y cómo se está organizando.
+
+Qué es la gestión de proyectos
+La gestión de proyectos es la aplicación de una planificación, una organización, una ejecución y un control al propósito de alcanzar los objetivos que nos hayamos marcado.
+
+En una empresa es común trabajar por proyectos, por lo que es muy recomendable poner orden. Orden que se suele conseguir gracias a las herramientas de gestión de proyectos, que te permiten controlar el desempeño de todas las actividades, quién está haciendo tareas relacionadas con el proyecto, etc…
+
+Para qué sirven las herramientas de gestión de proyectos
+Aunque te lo comentábamos al comienzo del artículo, no viene mal recordarlo: las herramientas de gestión de proyectos sirven para proporcionar un control y una estructura a los trabajadores para que puedan organizarse eficientemente.
+
+En empresas que trabajan por proyectos, muchas veces el email no es la mejor forma de comunicación, por lo que estas herramientas proporcionan también un gestor de comunicación interno que resulta muy útil para agilizar las conversaciones entre los miembros del equipo.
+
+Herramientas que se utilizan para gestión de proyectos
+1. Trello
+Una herramienta online básica para la gestión de proyectos de forma colaborativa que utiliza una metodología Kanban de una forma súper visual.
+Es posible usar Trello tanto para la gestión de grandes proyectos como para pequeñas tareas personales. Es bastante fácil de usar, con una interfaz muy intuitiva y con funcionalidades drag and drop, que es básicamente esto que ves en el GIF de abajo.
+2. Asana
+Las aplicaciones online de creación de listas de tareas suelen ser muy simples para cumplir con los objetivos de un gran proyecto, pero esto no ocurre con Asana.
+
+Vas a encontrarte con un panel vacío, pero la clave está en que vas a poder crear diferentes equipos (como el equipo de ventas, equipo de contabilidad, etc.) y diferentes proyectos asignados a estos equipos. Y además, vas a poder comprobar en todo momento cómo se encuentra cada proyecto.
+3. Redbooth
+Conocido anteriormente como Teambox, Redbooth es un gestor de tareas y proyectos colaborativos muy intuitivo y fácil de usar.
+4. Dapulse
+Esta herramienta online para gestión de proyectos es la resultante de mezclar uso fácil e intuitivo e interfaz amigable y atractiva.
+
+Podríamos decir que su punto fuerte es la usabilidad. Puedes crear procesos y tareas, asignarlas a diferentes equipos de trabajo y en un panel de control muy simple pero llamativo, podrás ver cómo va todo.
+5. Noysi
+Una herramienta que nos ha sorprendido debido a que no la hemos conocido hasta hace realmente poco.
+
+Es una herramienta cuyo principal punto fuerte radica en la comunicación interna. Muchos la catalogan ya como el ‘WhatsApp de las empresas’, ya que sus fundadores tienen la idea de cambiar la forma en la que las empresas se comunican actualmente.
+
 - (Pegar aqui LA GESTION DE PORYECTOS EN EL DESARROLLO WEB)
 - (Pegar aqui INTRODUCCION A GITHUB)
 - (Pegar aqui COMO CREAR UNA CUENTA Y UN REPOSITORIO EN GITHUB)
