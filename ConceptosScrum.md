@@ -1,7 +1,7 @@
 # Proyecto_Inicial_2022
 Primer Proyecto Grupo - Aula 16 - ISPC -.
-
 ### TRABAJAR EN PROYECTOS
+
 >_La aplicación de los métodos ágiles no ha dejado de crecer y extenderse desde 2001, año en que se publicó el Manifiesto Ágil, al maximizar los resultados de un proyecto cumpliendo las expectativas de los clientes, sin desviarse del presupuesto. Al aplicar Scrum a la gestión de proyectos se pueden obtener resultados de alta calidad trabajando en iteraciones cortas llamadas Sprints. Scrum basa su funcionamiento en la flexibilidad, la comunicación, la colaboración, la simplicidad y en dar relevancia a las personas implicadas en el día a día del proyecto con el objetivo de construir productos de calidad y siempre orientados a cubrir las necesidades reales del cliente.Este libro permite y facilita el conocimiento de los métodos ágiles y el aprendizaje de Scrum. Surge como respuesta a la necesidad de contar con un texto introductorio y divulgativo sobre métodos ágiles en castellano ya que, aunque existe un amplia bibliografía en inglés, en español es realmente escasa._
 
 La metodología Scrum permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está  basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes. Dicho en otras palabras: Scrum sirve para mejorar el trabajo colaborativo entre equipos.
@@ -17,10 +17,9 @@ En definitiva, la adopción de estas buenas prácticas permite reducir el tiempo
 
 ## Conceptos SCRUM:
 
-- Ceremonias
-- Arfactos
-- Roles
-
+<details><summary>Ceremonias</summary>
+<p>
+  
 # ¿Cuáles son las ceremonias del Scrum?:
 
 <img src="./images/ceremonias-scrum.png" alt="ceremonias-scrum" title="ceremonias-scrum">
@@ -42,6 +41,12 @@ El Sprint Review, sucede al final de cada sprint, y requiere como las demás cer
 
 4. Retrospectiva
 La Retrospectiva del sprint, también tiene lugar al final de cada sprint. Los que asisten a esta ceremonía son: el equipo de desarrollo y el Scrum Master. El Product Owner puede atender, pero no es obligatorio. El foco de atención de esta ceremonía es revisar la forma de trabajo del equipo durante el sprint que acaba de finalizar. Así los miembros se dan feedback entre sí, e intentan conjuntamente pensar en soluciones para sobrepasar los obstáculos, y pensar en mejoras en cuanto a la forma de trabajar. La ceremonía Retrospectiva se debería celebrar siempre al final de cada sprint, aunque el sprint haya ido perfectamente y el equipo sea feliz, el sprint se debe celebrar.
+</p>
+</details>
+
+<details><summary>Artefactos</summary>
+
+<p>
 
 # ¿Qué son los artefactos del Scrum? (Scrum Artifacts):
 
@@ -63,8 +68,14 @@ La definición de hecho, la decide y define el equipo, y será aplicado a todos 
 
 5. Burndown chart o Diagrama de Quemado
 El diagrama de quemado se usa para medir el progreso general de un proyecto. Da una visión a largo plazo del trabajo terminado y del trabajo por realizar. Mide la velocidad, y compara con el trabajo estimado con el trabajo realmente realizado, dando un aporte de realismo al equipo.
+</p>
+ 
+</details>
 
-# Un equipo Scrum siempre se compone de: (Roles)
+<details><summary>Roles</summary>
+<p>
+
+  # Un equipo Scrum siempre se compone de: (Roles)
 
 - Un Product Owner (PO);
 - Un Scrum Master (SM);
@@ -135,6 +146,9 @@ Como norma general, "cuantos menos mejor". Esta norma facilita la simplicidad a 
 
 En cuanto a la descripción del puesto, en el caso de un oferta de empleo, las habilidades que se suelen pedir son muy diversas, ya que a los "desarrolladores" se les contrata en función de sus habilidades. Siempre será una ventaja la experiencia de trabajo en equipos scrum.
 
+</p>
+ 
+</details>
 
 ## INTRODUCCION A HERRAMIENTAS PARA GESTION DE PROYECTOS EN GENERAL
 La eficiencia y productividad dentro de una empresa con varios empleados es complicada de conseguir ya que hay que controlar exhaustivamente qué se está haciendo y cómo.
