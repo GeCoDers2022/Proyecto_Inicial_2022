@@ -177,7 +177,9 @@ Una herramienta que nos ha sorprendido debido a que no la hemos conocido hasta h
 - (Pegar aqui LA GESTION DE PORYECTOS EN EL DESARROLLO WEB)
 -
 Qué es Github
-Github Logo
+
+![image](https://user-images.githubusercontent.com/66786179/177200640-4a9afc96-340f-4b7f-86f2-0c4f8d156002.png)
+
 Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador, y que fue comprada por Microsoft en junio del 2018. La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas, y que como usuario no sólo puedas descargarte la aplicación, sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
 Como su nombre indica, la web utiliza el sistema de control de versiones Git diseñado por Linus Torvalds. Un sistema de gestión de versiones es ese con el que los desarrolladores pueden administrar su proyecto, ordenando el código de cada una de las nuevas versiones que sacan de sus aplicaciones para evitar confusiones. Así, al tener copias de cada una de las versiones de su aplicación, no se perderán los estados anteriores cuando se va a actualizar.
 
@@ -187,7 +189,9 @@ Las principales características de la plataforma es que ofrece las mejores cara
 
 Así pues, Github es un portal para gestionar las aplicaciones que utilizan el sistema Git. Además de permitirte mirar el código y descargarte las diferentes versiones de una aplicación, la plataforma también hace las veces de red social conectando desarrolladores con usuarios para que estos puedan colaborar mejorando la aplicación
 Qué ofrece Github
-Pagina Github
+
+![image](https://user-images.githubusercontent.com/66786179/177200749-41dc14ed-f5fa-4cde-88d6-7777eb809e63.png)
+
 Github permite que los desarrolladores alojen proyectos creando repositorios de forma gratuita. Pero hay que tener una cosa en mente, y es que para poder subir gratis los proyectos deberán ser de código abierto. Y no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
 
 Como te hemos mencionado más arriba, en Github también puedes entrar a los proyectos de los demás y colaborar para mejorarlos. Esto quiere decir que los usuarios pueden opinar, dejar sus comentarios sobre el código, colaborar y contribuir mejorando el código. También pueden reportar errores para que los desarrolladores lo mejoren.
