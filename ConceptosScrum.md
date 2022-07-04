@@ -134,3 +134,52 @@ Las siguientes afirmaciones deben cumplirse en un equipo de desarrollo:
 Como norma general, "cuantos menos mejor". Esta norma facilita la simplicidad a la hora de entregar un producto. Aunque hay que tener en cuenta, que aunque menos sea mejor, es necesario que el equipo esté conformado por el número necesario de miembros, para que el equipo posea todas las habilidades necesarias en el desarrollo del producto. Ni al product owner, ni al scrum master se les cuenta como miembros del equipo de desarrollo.
 
 En cuanto a la descripción del puesto, en el caso de un oferta de empleo, las habilidades que se suelen pedir son muy diversas, ya que a los "desarrolladores" se les contrata en función de sus habilidades. Siempre será una ventaja la experiencia de trabajo en equipos scrum.
+
+¿Qué es GITHub y para qué sirve?
+ 
+
+Github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperar en ellos.
+
+Se podría hablar de Github como la red social pensada para desarrolladores, siendo este repositorio uno de los más usados a nivel mundial.
+
+Podemos seguir e interactuar con personas interesadas en un tipo de proyecto en concreto, dando a conocer los nuestros o cooperando en el proyecto de terceros.
+
+Cómo funciona Github
+Para comprender cómo funciona Github y por qué es usado por miles de personas en todo el mundo tendremos que ver qué partes lo forman.
+
+Repositorio
+Un repositorio es la ubicación o ruta en la que se almacena toda la información de un proyecto como imágenes, código, carpetas, documentos, etc.
+
+Cada proyecto contaría con su propio repositorio único, por lo que la ruta de acceso será exclusiva para el proyecto.
+
+ Repositorio-Hosting-Wordpress
+Rama-git-WordPress
+Branch (ramificaciones)
+En el caso de que queramos trabajar una parte concreta de nuestro proyecto de forma aislada no afectando al repositorio principal, tendremos que hacerlo mediante Branch.
+
+El Branch creará una copia exacta de nuestro proyecto para hacer pruebas sin miedo a equivocarnos y que afecte a todo el trabajo realizado.
+
+Pull Request (Fusión)
+Cada vez que subas un nuevo cambio en una rama del proyecto, puedes avisar a los demás colaboradores para que validen o no tu pull request, o si encuentran posibles mejoras poder comentarlas.
+
+Pull Request WordPress
+Tag-git-WordPress
+Tag
+Los Tag permiten controlar el estado de un repositorio dando información a otros usuarios de en qué versión se encuentra actualmente el proyecto.
+
+Esta acción es conocida como “Tagging” y es bastante importante a la hora de gestionar la vida de un proyecto.
+Crear un nuevo proyecto a partir de otro (Fork).
+
+Fork
+Una opción bastante usada en Github es la de Fork. Con esta opción podrás crear un nuevo proyecto en base a uno ya creado, permitiendo hacer modificaciones y guardándose en tu propio repositorio y no en el repositorio original.
+
+Esta opción facilita el crecimiento de proyectos permitiendo a los desarrolladores continuar mejorando un software por cuenta propia y en el caso de realizarse una mejora en el repositorio principal podrás también implementarla a tu proyecto clonado.
+
+Esta opción es conocida en Github como bifurcación.
+
+fork git WordPress
+Cuando Usar Github con WordPress
+Cuándo usar Github
+Github es perfecto para gestionar desarrollos, permitiendo compartir los proyectos a una gran comunidad de desarrolladores que estarán encantados de cooperar y mejorar el software, aportando mejoras o comentarios que añadirán valor al desarrollo final.
+
+Contar con un gestor de versiones como Git permite ver todos los cambios en la vida del proyecto desde sus inicios.
